@@ -29,4 +29,5 @@ h2
 		}
 .footer {
 			text-align: center;
+			border-top: 3px black solid;
 		}
