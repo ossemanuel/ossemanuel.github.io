@@ -1,0 +1,30 @@
+
+body
+
+	{
+		font-family: Arial;
+		background-image: url(image.jpg);
+	}
+
+h1
+	{
+		color:black;
+
+	}
+
+
+
+h2
+	{
+		
+		border-bottom: 3px red solid;
+	}
+
+.marketing
+
+		{
+
+			font-weight: bold;
+			color: blue;
+		}
+
